@@ -1,0 +1,1 @@
+tensorboard --logdir C:/Users/praty/Desktop/DL/CIFAR - 10/tf_logs/
